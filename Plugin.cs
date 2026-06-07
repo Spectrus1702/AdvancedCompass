@@ -18,7 +18,7 @@ public sealed class Plugin : BaseUnityPlugin
 {
     public const string PluginGuid = "local.theplanetcrafter.advancedcompass";
     public const string PluginName = "Advanced Compass";
-    public const string PluginVersion = "1.0.0";
+    public const string PluginVersion = "1.1.0";
 
     private static ManualLogSource Log;
     private static ConfigEntry<float> ScanRange;
